@@ -66,7 +66,7 @@
 
   <div class="row g-5">
     <div class="col-md-8">
-        <table class="table table-hover table-bordered">
+        <table class="table table-hover">
             <thead class="table-dark">
                 <tr>
                     <th>#</th>
